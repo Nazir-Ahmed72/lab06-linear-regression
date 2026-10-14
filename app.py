@@ -6,6 +6,7 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
+
 REGISTRATION_NUMBER = "FA23-BDS-032"
 
 # Required coefficient generation procedure.
