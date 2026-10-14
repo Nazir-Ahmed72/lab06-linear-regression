@@ -1,6 +1,7 @@
 import math
 import random
 
+
 from flask import Flask, jsonify, request
 
 app = Flask(__name__)
